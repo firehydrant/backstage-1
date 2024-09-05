@@ -29,7 +29,7 @@
     "clean": "backstage-cli clean"
   },
   "dependencies": {
-    "@asyncapi/react-component": "^0.23.0",
+    "@asyncapi/react-component": "^1.0.0",
     "@backstage/catalog-model": "^0.9.0",
     "@backstage/core-components": "^0.3.0",
     "@backstage/core-plugin-api": "^0.1.5",
@@ -41,7 +41,7 @@
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "4.0.0-alpha.45",
     "@types/react": "*",
-    "graphiql": "^1.0.0-alpha.10",
+    "graphiql": "^1.8.1",
     "graphql": "^15.3.0",
     "isomorphic-form-data": "^2.0.0",
     "react": "^16.13.1",
@@ -49,7 +49,7 @@
     "react-router": "6.0.0-beta.0",
     "react-router-dom": "6.0.0-beta.0",
     "react-use": "^17.2.4",
-    "swagger-ui-react": "^3.37.2"
+    "swagger-ui-react": "^5.17.8"
   },
   "devDependencies": {
     "@backstage/cli": "^0.7.7",
