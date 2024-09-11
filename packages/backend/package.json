@@ -56,7 +56,7 @@
     "azure-devops-node-api": "^10.2.2",
     "dockerode": "^3.2.1",
     "example-app": "^0.2.37",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "express-promise-router": "^4.1.0",
     "knex": "^0.95.1",
     "pg": "^8.3.0",
